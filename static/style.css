@@ -1,0 +1,21 @@
+.green {
+    color: lightgreen;
+}
+
+.blue {
+    color: blue;
+}
+
+.red {
+    color: red;
+}
+
+p {
+    font-family: monospace;
+    font-size: 1.5em;
+}
+
+h1 {
+    font-size: 15em;
+    text-align: center;
+}
