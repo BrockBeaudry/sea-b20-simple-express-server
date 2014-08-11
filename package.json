@@ -21,5 +21,9 @@
   "homepage": "https://github.com/BrockBeaudry/sea-b20-simple-express-server",
   "dependencies": {
     "express": "^4.8.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-casperjs": "^1.5.0"
   }
 }
